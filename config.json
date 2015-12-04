@@ -1,0 +1,11 @@
+{
+  "db" : {
+    "test" : "mongodb://localhost/test",
+    "dev"  : "mongodb://localhost/dev",
+    "prod" : "mongodb://{user}:{pass}@ord-c8-0.objectrocket.com:39097/CMSDB"
+  },
+  "connection": {
+    "host" : "0.0.0.0",
+    "port" : 3010
+  }
+}
